@@ -13,6 +13,8 @@
  &nbsp;
 
 
+<h2 style="color: #0C0A79">Descubra</h2>
+<h1 style="color:black;font-weight:600"><span style="border-bottom: 1px solid #0C0A79">Sobre</span> mim</h1>
 
 ## My Skills
 
