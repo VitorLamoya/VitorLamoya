@@ -13,7 +13,9 @@
  &nbsp;
 
 ## Sobre mim
-Me chamo Vitor Lamoya, Sou um desenvolvedor front-end apaixonado por criar soluções web inovadoras e funcionais. Atualmente trabalho de forma Freelancer, desenvolvendo interfaces web interativas e responsivas para clientes de diversos setores, usando HTML5, CSS, JavaScript, TypeScript e o framework Angular+2.
+Me chamo Vitor Lamoya, Sou um desenvolvedor front-end apaixonado por criar soluções web inovadoras e funcionais. Atualmente trabalho de forma Freelancer, desenvolvendo interfaces web interativas e responsivas para clientes de diversos setores, usando HTML5, CSS, JavaScript, TypeScript e o framework Angular+17.
+<br>
+Estou cursando o terceiro período de Ciência da Computação na Estácio, onde aprendo conceitos e técnicas de programação, algoritmos, estruturas de dados, banco de dados, redes, inteligência artificial, entre outros. Tenho perfil analítico e sou 100% atento aos detalhes, o que me ajuda a entregar projetos de qualidade e dentro dos prazos. Meu objetivo é continuar me aperfeiçoando como desenvolvedor front-end e contribuir para o sucesso dos meus clientes e empregadores.
 
 ## My Skills
 
