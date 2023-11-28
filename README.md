@@ -19,7 +19,7 @@ Estou cursando o terceiro período de Ciência da Computação na Estácio, onde
 
 ## My Skills
 
-#### Main Stack:
+#### Minhas principais tecnologias:
 
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
