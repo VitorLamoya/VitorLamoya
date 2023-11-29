@@ -54,7 +54,7 @@ Estou cursando o terceiro período de Ciência da Computação na Estácio, onde
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contato:
 
 <div> 
 <a href="https://www.instagram.com/vitorlamoya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -66,4 +66,4 @@ Estou cursando o terceiro período de Ciência da Computação na Estácio, onde
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C0A79&height=120&section=footer"/>
